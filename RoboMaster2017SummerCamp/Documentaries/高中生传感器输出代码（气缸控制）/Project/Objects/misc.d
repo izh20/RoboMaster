@@ -1,0 +1,16 @@
+.\objects\misc.o: ..\STLib\misc.c
+.\objects\misc.o: ..\STLib\misc.h
+.\objects\misc.o: ..\User\stm32f10x.h
+.\objects\misc.o: ..\CM3\core_cm3.h
+.\objects\misc.o: E:\arm\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: ..\STLib\system_stm32f10x.h
+.\objects\misc.o: ..\User\stm32f10x_conf.h
+.\objects\misc.o: ..\STLib\stm32f10x_can.h
+.\objects\misc.o: ..\User\stm32f10x.h
+.\objects\misc.o: ..\STLib\stm32f10x_dma.h
+.\objects\misc.o: ..\STLib\stm32f10x_exti.h
+.\objects\misc.o: ..\STLib\stm32f10x_gpio.h
+.\objects\misc.o: ..\STLib\stm32f10x_rcc.h
+.\objects\misc.o: ..\STLib\stm32f10x_tim.h
+.\objects\misc.o: ..\STLib\stm32f10x_usart.h
+.\objects\misc.o: ..\STLib\misc.h
